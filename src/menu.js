@@ -44,7 +44,7 @@ const loadMenu = () => {
     burgerImg.alt = "Burger";
 
     const burgerText = document.createElement("h2");
-    burgerText.textContent = "Spicy BBQ Burger";
+    burgerText.textContent = "Double Patty Burger";
 
     // Fries
     const fries = document.createElement("div");
