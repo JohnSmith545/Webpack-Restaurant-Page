@@ -7,7 +7,7 @@ function loadContact() {
     heading.textContent = "Contact Us";
 
     const info = document.createElement("h2");
-    info.textContent = "Email: guliqeuyjuch@gmail.com";
+    info.textContent = "Email: guliqueyjuch@gmail.com";
 
     container.appendChild(heading);
     container.appendChild(info);
