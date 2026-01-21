@@ -8,7 +8,7 @@ function loadContact() {
 
     const info = document.createElement("h2");
     info.textContent = "Email: guliqueyjuch@gmail.com";
-
+    
     container.appendChild(heading);
     container.appendChild(info);
     content.appendChild(container);
